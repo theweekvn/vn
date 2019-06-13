@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+<meta name="description" content="The Week Mat Na & Vung Co Beta Glucan Tu Nhien">
+<meta name="keyword" content="matna, mat na, lamdep, lam dep, chamsocda, cham Soc da, theweek, the week, 1tuan, 1 tuan, betaglucan, beta glucan, hanquoc, han quoc, vungco, vung co, mypham, my pham">
+<meta name="author" content="unimos">
+<meta name="Copyright" content="unimos">
+<meta name="Robots" content="ALL">
+<meta name="robots" content="index,follow" />

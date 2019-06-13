@@ -40,7 +40,9 @@
     "sitemapSwitcher": "on",
     "uniqCompNum": 28,
     "versionPublish": "4.10.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\nAllow: /\n<meta name=\"description\" content=\"The Week Mat Na & Vung Co Beta Glucan Tu Nhien\">\n<meta name=\"keyword\" content=\"matna, mat na, lamdep, lam dep, chamsocda, cham Soc da, theweek, the week, 1tuan, 1 tuan, betaglucan, beta glucan, hanquoc, han quoc, vungco, vung co, mypham, my pham\">\n<meta name=\"author\" content=\"unimos\">\n<meta name=\"Copyright\" content=\"unimos\">\n<meta name=\"Robots\" content=\"ALL\">\n<meta name=\"robots\" content=\"index,follow\" />",
+    "robotsSwitcher": "on"
   },
   "pages": {
     "index.html": {
