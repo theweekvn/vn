@@ -38,10 +38,10 @@
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-140461564-2\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-140461564-2');\r\n</script>",
     "gdpr": "",
     "sitemapSwitcher": "on",
-    "uniqCompNum": 28,
+    "uniqCompNum": 29,
     "versionPublish": "4.10.3",
     "screenshot": "screenshot.png",
-    "robotsText": "User-agent: *\nAllow: /\n<meta name=\"description\" content=\"The Week Mat Na & Vung Co Beta Glucan Tu Nhien\">\n<meta name=\"keyword\" content=\"matna, mat na, lamdep, lam dep, chamsocda, cham Soc da, theweek, the week, 1tuan, 1 tuan, betaglucan, beta glucan, hanquoc, han quoc, vungco, vung co, mypham, my pham, làmđẹpda, làmđẹpmỗingày, làmđẹpdamặt, làmđẹptạinhà , làmđepdamặttựnhiên, làmđẹpbằngsữachua, làmtrắngda, làm trắngdamặt , làmtrắng, cảithiệnnếpnhăn, mặtnạcảithiệnnếpnhăn, 1tuần, chămsócda, chămsócdamặt, betaglucanlàgì, giữẩmda, giữẩmdamặt, thanhoạttínhlàgì, thanhoạttínhskinaec, mặtnạthanhoạttính, mặtnạgiấycotton, mặtnạcotton, mặtnạbôngcỏ\">\n<meta name=\"author\" content=\"unimos\">\n<meta name=\"Copyright\" content=\"unimos\">\n<meta name=\"Robots\" content=\"ALL\">\n<meta name=\"robots\" content=\"index,follow\" />\n\n",
+    "robotsText": "User-agent: *\nAllow: /\n<meta name=\"description\" content=\"The Week Mat Na & Vung Co Beta Glucan Tu Nhien\">\n<meta name=\"keyword\" content=\"matna, mat na, lamdep, lam dep, chamsocda, cham Soc da, theweek, the week, parkhangseo, park hang seo, soccer, football, bongda, bong da, 1tuan, 1 tuan, betaglucan, beta glucan, hanquoc, han quoc, vungco, vung co, mypham, my pham, làmđẹpda, làmđẹpmỗingày, làmđẹpdamặt, làmđẹptạinhà , làmđepdamặttựnhiên, làmđẹpbằngsữachua, làmtrắngda, làm trắngdamặt , làmtrắng, cảithiệnnếpnhăn, mặtnạcảithiệnnếpnhăn, 1tuần, chămsócda, chămsócdamặt, betaglucanlàgì, giữẩmda, giữẩmdamặt, thanhoạttínhlàgì, thanhoạttínhskinaec, mặtnạthanhoạttính, mặtnạgiấycotton, mặtnạcotton, mặtnạbôngcỏ, parkhangseo, quangngai, bach's coffee\">\n<meta name=\"author\" content=\"unimos\">\n<meta name=\"Copyright\" content=\"unimos\">\n<meta name=\"Robots\" content=\"ALL\">\n<meta name=\"robots\" content=\"index,follow\" />\n\n\n\n",
     "robotsSwitcher": "on"
   },
   "pages": {
@@ -507,6 +507,38 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "rt3OBQwIZd",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "background": "@bgColor",
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".video-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".video-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "video2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n    <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n    <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n    <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <figure class=\"mbr-figure align-center\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"video-block\" mbr-style=\"{'width':videoSize+'%'}\">\n            <div mbr-video>\n                <iframe src=\"http://www.youtube.com/watch?v=uNCr7NdOJgw&loop=0&autoplay=0\"></iframe>\n            </div>\n        </div>\n    </figure>\n</section>",
+          "_cid": "rtNLEgWt8q",
+          "_anchor": "video2-s",
           "_protectedParams": [],
           "_global": false,
           "_once": false,

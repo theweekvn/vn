@@ -1825,6 +1825,18 @@ body {
 .cid-rt3OBQwIZd H1 {
   color: #ff3366;
 }
+.cid-rtNLEgWt8q {
+  background: #ffffff;
+}
+.cid-rtNLEgWt8q .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rtNLEgWt8q .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rt3OCLVP5n {
   padding-top: 60px;
   padding-bottom: 60px;
