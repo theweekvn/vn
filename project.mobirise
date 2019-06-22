@@ -31,7 +31,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.3",
     "siteFonts": [],
-    "siteUrl": "https://theweek.vn",
+    "siteUrl": "https://www.theweek.vn",
     "sitemapSwitcherAuto": "on",
     "favicon": "@PROJECT_PATH@/assets/images/128x152.png",
     "noImageResize": "",
@@ -41,7 +41,7 @@
     "uniqCompNum": 29,
     "versionPublish": "4.10.3",
     "screenshot": "screenshot.png",
-    "robotsText": "User-agent: *\nAllow: /\n<meta name=\"description\" content=\"The Week Mat Na & Vung Co Beta Glucan Tu Nhien\">\n<meta name=\"keyword\" content=\"matna, mat na, lamdep, lam dep, chamsocda, cham Soc da, theweek, the week, parkhangseo, park hang seo, soccer, football, bongda, bong da, 1tuan, 1 tuan, betaglucan, beta glucan, hanquoc, han quoc, vungco, vung co, mypham, my pham, làmđẹpda, làmđẹpmỗingày, làmđẹpdamặt, làmđẹptạinhà , làmđepdamặttựnhiên, làmđẹpbằngsữachua, làmtrắngda, làm trắngdamặt , làmtrắng, cảithiệnnếpnhăn, mặtnạcảithiệnnếpnhăn, 1tuần, chămsócda, chămsócdamặt, betaglucanlàgì, giữẩmda, giữẩmdamặt, thanhoạttínhlàgì, thanhoạttínhskinaec, mặtnạthanhoạttính, mặtnạgiấycotton, mặtnạcotton, mặtnạbôngcỏ, parkhangseo, quangngai, bach's coffee\">\n<meta name=\"author\" content=\"unimos\">\n<meta name=\"Copyright\" content=\"unimos\">\n<meta name=\"Robots\" content=\"ALL\">\n<meta name=\"robots\" content=\"index,follow\" />\n\n\n\n",
+    "robotsText": "User-agent: *\nAllow: /\n<meta name =\"description\" content=\"The Week Mat Na & Vung Co Beta Glucan Tu Nhien\">\n<meta name =\"keywords\" content=\"matna, mat na, lamdep, lam dep, chamsocda, cham Soc da, theweek, the week, parkhangseo, park hang seo, soccer, football, bongda, bong da, 1tuan, 1 tuan, betaglucan, beta glucan, hanquoc, han quoc, vungco, vung co, mypham, my pham, làmđẹpda, làmđẹpmỗingày, làmđẹpdamặt, làmđẹptạinhà , làmđepdamặttựnhiên, làmđẹpbằngsữachua, làmtrắngda, làm trắngdamặt , làmtrắng, cảithiệnnếpnhăn, mặtnạcảithiệnnếpnhăn, 1tuần, chămsócda, chămsócdamặt, betaglucanlàgì, giữẩmda, giữẩmdamặt, thanhoạttínhlàgì, thanhoạttínhskinaec, mặtnạthanhoạttính, mặtnạgiấycotton, mặtnạcotton, mặtnạbôngcỏ, parkhangseo, quangngai, bach's coffee\">\n<meta name =\"author\" content=\"unimos\">\n<meta name =\"copyright\" content=\"unimos\">\n<meta name =\"Robots\" content=\"ALL\">\n<meta name =\"robots\" content=\"index,follow\" />\n\n\n\n\n",
     "robotsSwitcher": "on"
   },
   "pages": {
