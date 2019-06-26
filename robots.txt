@@ -1,11 +1,14 @@
 User-agent: *
 Allow: /
 <meta name ="description" content="The Week Mat Na & Vung Co Beta Glucan Tu Nhien">
-<meta name ="keywords" content="matna, mat na, lamdep, lam dep, chamsocda, cham Soc da, theweek, the week, parkhangseo, park hang seo, soccer, football, bongda, bong da, 1tuan, 1 tuan, betaglucan, beta glucan, hanquoc, han quoc, vungco, vung co, mypham, my pham, làmđẹpda, làmđẹpmỗingày, làmđẹpdamặt, làmđẹptạinhà , làmđepdamặttựnhiên, làmđẹpbằngsữachua, làmtrắngda, làm trắngdamặt , làmtrắng, cảithiệnnếpnhăn, mặtnạcảithiệnnếpnhăn, 1tuần, chămsócda, chămsócdamặt, betaglucanlàgì, giữẩmda, giữẩmdamặt, thanhoạttínhlàgì, thanhoạttínhskinaec, mặtnạthanhoạttính, mặtnạgiấycotton, mặtnạcotton, mặtnạbôngcỏ, parkhangseo, quangngai, bach's coffee">
+<meta name ="keywords" content="matna, mat na, lamdep, lam dep, chamsocda, cham Soc da, theweek, the week, parkhangseo, park hang seo, soccer, football, bongda, bong da, 1tuan, 1 tuan, betaglucan, beta glucan, hanquoc, han quoc, vungco, vung co, mypham, my pham, cuộc thi người đẹp núi ấn sông trà, cuộcthingườiđẹp, quangngai, quang ngai, làmđẹpda, làmđẹpmỗingày, làmđẹpdamặt, làmđẹptạinhà , làmđepdamặttựnhiên, làmđẹpbằngsữachua, làmtrắngda, làm trắngdamặt , làmtrắng, cảithiệnnếpnhăn, mặtnạcảithiệnnếpnhăn, 1tuần, chămsócda, chămsócdamặt, betaglucanlàgì, giữẩmda, giữẩmdamặt, thanhoạttínhlàgì, thanhoạttínhskinaec, mặtnạthanhoạttính, mặtnạgiấycotton, mặtnạcotton, mặtnạbôngcỏ, parkhangseo, quangngai, bach's coffee">
 <meta name ="author" content="unimos">
 <meta name ="copyright" content="unimos">
 <meta name ="Robots" content="ALL">
 <meta name ="robots" content="index,follow" />
+
+
+
 
 
 
