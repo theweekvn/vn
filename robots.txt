@@ -6,12 +6,3 @@ Allow: /
 <meta name ="copyright" content="unimos">
 <meta name ="Robots" content="ALL">
 <meta name ="robots" content="index,follow" />
-
-
-
-
-
-
-
-
-
