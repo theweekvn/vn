@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 <meta name ="description" content="The Week Mat Na & Vung Co Beta Glucan Tu Nhien">
-<meta name ="keywords" content="matna, mat na, lamdep, lam dep, chamsocda, cham Soc da, theweek, the week, parkhangseo, park hang seo, soccer, football, bongda, bong da, 1tuan, 1 tuan, betaglucan, beta glucan, hanquoc, han quoc, vungco, vung co, mypham, my pham, cuộc thi người đẹp núi ấn sông trà, cuộcthingườiđẹp, quangngai, quang ngai, làmđẹpda, làmđẹpmỗingày, làmđẹpdamặt, làmđẹptạinhà , làmđepdamặttựnhiên, làmđẹpbằngsữachua, làmtrắngda, làm trắngdamặt , làmtrắng, cảithiệnnếpnhăn, mặtnạcảithiệnnếpnhăn, 1tuần, chămsócda, chămsócdamặt, betaglucanlàgì, giữẩmda, giữẩmdamặt, thanhoạttínhlàgì, thanhoạttínhskinaec, mặtnạthanhoạttính, mặtnạgiấycotton, mặtnạcotton, mặtnạbôngcỏ, parkhangseo, quangngai, bach's coffee, Ấn Sông Trà, Núi Ấn Sông Trà, Sở VHTTDL Tỉnh Quảng Ngãi, Đặng Ngọc Dũng, Người Đẹp Thân Thiện, Tái Lập, UBND Tỉnh Quảng Ngãi, Nguyễn Tăng Bính, Số Báo Danh, Lê Viết Chữ, Người Đẹp Tài Năng, Đêm Chung Kết, Quảng Ngãi, Núi, Thi Ứng Xử">
+<meta name ="keywords" content="matna, mat na, matnahanquoc, mat na  hanquoc, matnahardarum, mat na hard arum, matnaduongda, mat na duong da, matnatrangda, mat na trang da, làmđẹpda, lamdepda, lam dep da, lamdep, lam dep, làmđẹptạinhà, lamdeptainha, làmtrắngda, lamtrangda, làmtrắng , lamtrang, chămsócda, chamsocda, chămsócdamặt, chamsocdamat , chamsocdamun, betaglucan, thanhoạttính, mặtnạgiấy, matnavavungco, thanhoạttínhskinaec, mặtnạthanhoạttính, mặtnạgiấycotton, mặtnạcotton, mặtnạbôngcỏ, parkhangseo, quangngai, bach's coffee">
 <meta name ="author" content="unimos">
 <meta name ="copyright" content="unimos">
 <meta name ="Robots" content="ALL">
