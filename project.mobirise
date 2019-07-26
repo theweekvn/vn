@@ -746,11 +746,11 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/img-4943-2000x1500.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
-                "playVideo": true,
+                "playVideo": false,
                 "videoUrl": "https://youtu.be/GJf3ZfmatLg?loop=0&autoplay=1",
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
@@ -763,7 +763,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-0241-2-960x1280.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
