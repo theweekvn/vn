@@ -2079,6 +2079,20 @@ body {
     text-align: center;
   }
 }
+.cid-rxks21OU5S {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(45deg, #ffffff, #149dcc);
+}
+.cid-rxks21OU5S .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rxks21OU5S .video-block {
+    width: 100% !important;
+  }
+}
 .cid-ruXjYhTv50 {
   padding-top: 90px;
   padding-bottom: 90px;
