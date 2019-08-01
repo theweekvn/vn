@@ -1,9 +1,10 @@
 User-agent: *
 Allow: /
 <meta name ="description" content="The Week Mat Na & Vung Co Beta Glucan Tu Nhien">
-<meta name ="keywords" content="matna tot nhat, matna, mat na, matnahanquoc, mat na  hanquoc, mask môi, mask mediheal, mask black, mask theweek, 1tuan, matnaduongda, mat na duong da, matnatrangda, mat na trang da, làmđẹpda, lamdepda, lam dep da, lamdep, lam dep, làmđẹptạinhà, lamdeptainha, làmtrắngda, lamtrangda, làmtrắng , lamtrang, chămsócda, chamsocda, chămsócdamặt, chamsocdamat , chamsocdamun, betaglucan, thanhoạttính, mặtnạgiấy, matnavavungco, matna vung co, thanhoạttínhskinaec, mặtnạthanhoạttính, mặtnạgiấycotton, mặtnạcotton, mặtnạbôngcỏ, parkhangseo, quangngai">
+<meta name ="keywords" content="matna tot nhat, matna, mat na, matnahanquoc, mat na  hanquoc, mask môi, mask mediheal, mask black, mask theweek, 1tuan, matnaduongda, mat na duong da, matnatrangda, mat na trang da, làmđẹpda, lamdepda, lam dep da, lamdep, lam dep, làmđẹptạinhà, lamdeptainha, làmtrắngda, lamtrangda, làmtrắng , lamtrang, chămsócda, chamsocda, chămsócdamặt, chamsocdamat , chamsocdamun, betaglucan, thanhoạttính, mặtnạgiấy, matnavavungco, matna vung co, thanhoạttínhskinaec, mặtnạthanhoạttính, mặtnạgiấycotton, mặtnạcotton, parkhangseo">
 <meta name ="author" content="unimos">
 <meta name ="copyright" content="unimos">
 <meta name ="Robots" content="ALL">
 <meta name ="robots" content="index,follow" />
+
 
